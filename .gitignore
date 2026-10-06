@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+cache/
+data/floods.db
+data/floods.db-*
+data/satellite_tiffs/
+data/water_masks/
